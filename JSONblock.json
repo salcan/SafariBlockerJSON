@@ -17,7 +17,7 @@
 
             "load-type": ["third-party"],
 
-            "if-domain": ["*imore.com"]
+            "if-domain": ["*FOO.com"]
 
         }
 
@@ -39,7 +39,7 @@
 
              "url-filter": ".*",
 
-             "if-domain": ["*imore.com"]
+             "if-domain": ["*FOO.com"]
 
          }
 
@@ -53,7 +53,7 @@
 
              "type": "css-display-none",
 
-             "selector": "div.netshelter-ad-inner"
+             "selector": "div.FOO"
 
          },
 
@@ -61,7 +61,7 @@
 
              "url-filter": ".*",
 
-             "if-domain": ["*imore.com"]
+             "if-domain": ["*FOO.com"]
 
      }
 
